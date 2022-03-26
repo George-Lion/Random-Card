@@ -42,11 +42,9 @@ function deckOfCards() {
   }
 }
 
-/* function newTT(){
-
+function newTT() {
   newCards = a(newCards);
-    position = 0;
-
-} */
+  position = 0;
+}
 start.addEventListener("click", deckOfCards);
 /* reset.addEventListener("click", nuevoMazo); */
