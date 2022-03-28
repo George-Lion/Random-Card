@@ -25,14 +25,14 @@ body {
   align-items: center;
   justify-content: center;
 }
-#cora1 {
-  color: red;
-  font-size: 23px;
+#model1 {
+  color: rgb(197, 48, 48);
+  font-size: 30px;
 }
 
-#cora2 {
-  color: red;
-  font-size: 23px;
+#model2 {
+  color: rgb(197, 48, 48);
+  font-size: 30px;
 }
 p {
   margin-right: 10px;
